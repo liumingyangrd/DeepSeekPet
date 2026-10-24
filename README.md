@@ -2,6 +2,9 @@
 
 常驻 Windows 桌面的 Q 版鲸鱼娘女仆桌宠（PySide6）。
 
+> 只想直接玩？到 [Releases](https://github.com/liumingyangrd/DeepSeekPet/releases/latest) 下载
+> `DeepSeekPet.exe`（Windows x64 单文件，免安装 Python，双击即用）。
+
 ## 功能
 
 - 透明无边框窗口、始终置顶、可拖动、滚轮调大小
